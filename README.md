@@ -1,4 +1,4 @@
-# New Project
+# Nixoscript
 
 > A library for creating web applications.
 
